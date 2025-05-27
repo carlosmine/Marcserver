@@ -1,0 +1,83 @@
+[27May2025 18:18:00.730] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[27May2025 18:18:00.732] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04
+[27May2025 18:18:00.732] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[27May2025 18:18:00.825] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/Marcserver/servidor_minecraft/config/fml.toml is not correct. Correcting
+[27May2025 18:18:00.828] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[27May2025 18:18:00.828] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[27May2025 18:18:00.829] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[27May2025 18:18:00.829] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[27May2025 18:18:00.847] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[27May2025 18:18:00.951] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/Marcserver/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[27May2025 18:18:01.154] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[27May2025 18:18:02.025] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[27May2025 18:18:07.438] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 55.0.21, for MC 1.21.5 with MCP 20250325.155543
+[27May2025 18:18:07.439] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v55.0.21 Initialized
+[27May2025 18:18:07.452] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[27May2025 18:18:07.653] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Marcserver/servidor_minecraft/config/forge-common.toml is not correct. Correcting
+[27May2025 18:18:07.654] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[27May2025 18:18:07.654] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.logLegacyTagWarnings was corrected from null to its default, OFF. 
+[27May2025 18:18:07.873] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[27May2025 18:18:08.382] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 55.0.21 Target: 55.0.21
+[27May2025 18:18:08.812] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[27May2025 18:18:09.603] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
+[27May2025 18:18:10.493] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1373 recipes
+[27May2025 18:18:10.511] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1484 advancements
+[27May2025 18:18:10.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.5
+[27May2025 18:18:10.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[27May2025 18:18:10.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[27May2025 18:18:10.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[27May2025 18:18:10.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[27May2025 18:18:10.797] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[27May2025 18:18:10.842] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[27May2025 18:18:10.842] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[27May2025 18:18:10.843] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[27May2025 18:18:10.843] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[27May2025 18:18:10.857] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[27May2025 18:18:10.858] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[27May2025 18:18:10.858] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[27May2025 18:18:10.858] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[27May2025 18:18:10.859] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[27May2025 18:18:10.859] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[27May2025 18:18:10.860] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[27May2025 18:18:10.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[27May2025 18:18:16.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[27May2025 18:18:16.525] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[27May2025 18:18:17.009] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[27May2025 18:18:17.490] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[27May2025 18:18:17.978] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[27May2025 18:18:18.494] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[27May2025 18:18:18.975] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[27May2025 18:18:19.991] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[27May2025 18:18:19.992] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[27May2025 18:18:20.521] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[27May2025 18:18:20.976] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[27May2025 18:18:21.487] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[27May2025 18:18:21.656] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5184 ms
+[27May2025 18:18:21.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.802s)! For help, type "help"
+[27May2025 18:18:21.689] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[27May2025 18:19:21.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[27May2025 18:20:13.627] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marcenaroc64[/127.227.95.238:49459] logged in with entity id 9 at (3.5, 70.0, 15.5)
+[27May2025 18:20:13.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcenaroc64 joined the game
+[27May2025 18:20:41.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Marcenaroc64 a server operator
+[27May2025 18:20:52.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marcenaroc64: Set own game mode to Creative Mode]
+[27May2025 18:23:30.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marcenaroc64: Created team [CEO]]
+[27May2025 18:23:42.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marcenaroc64: Added Marcenaroc64 to team [CEO]]
+[27May2025 18:24:16.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marcenaroc64: Updated the color for team [CEO] to aqua]
+[27May2025 18:24:36.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marcenaroc64: Updated the color for team [CEO] to black]
+[27May2025 18:24:40.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcenaroc64> hola
+[27May2025 18:24:54.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marcenaroc64: Updated the color for team [CEO] to red]
+[27May2025 18:25:04.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marcenaroc64: Updated the color for team [CEO] to dark_red]
+[27May2025 18:25:32.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C.E.OMarcenaroc64> rgjao9
+[27May2025 18:25:50.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C.E.OMarcenaroc64> hola
+[27May2025 18:26:07.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C.E.OMarcenaroc64> sgsa
+[27May2025 18:26:19.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_C.E.O_Marcenaroc64> ghsgsg
+[27May2025 18:26:29.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C.E.OMarcenaroc64> gsgs
+[27May2025 18:26:54.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C.E.O.Marcenaroc64> zfa
+[27May2025 18:27:25.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C.E.O.-Marcenaroc64> gsg
+[27May2025 18:28:19.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C.E.O.-Marcenaroc64: Updated the color for team [CEO] to aqua]
+[27May2025 18:33:19.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C.E.O. Marcenaroc64: Updated the color for team [CEO] to reset]
+[27May2025 18:33:57.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C.E.O. Marcenaroc64: Created team [staff]]
+[27May2025 18:34:44.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C.E.O. Marcenaroc64> hola
+[27May2025 18:34:51.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C.E.O. Marcenaroc64: Added STAFF Marcenaroc64 to team [staff]]
+[27May2025 18:34:54.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STAFF Marcenaroc64> hpña
+[27May2025 18:34:57.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STAFF Marcenaroc64: Added C.E.O. Marcenaroc64 to team [CEO]]

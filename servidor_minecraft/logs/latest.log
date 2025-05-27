@@ -81,3 +81,16 @@
 [27May2025 18:34:51.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C.E.O. Marcenaroc64: Added STAFF Marcenaroc64 to team [staff]]
 [27May2025 18:34:54.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STAFF Marcenaroc64> hpña
 [27May2025 18:34:57.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STAFF Marcenaroc64: Added C.E.O. Marcenaroc64 to team [CEO]]
+[27May2025 18:40:06.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcenaroc64 lost connection: Disconnected
+[27May2025 18:40:06.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C.E.O. Marcenaroc64 left the game
+[27May2025 18:41:06.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[27May2025 18:46:38.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27May2025 18:46:38.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27May2025 18:46:38.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27May2025 18:46:38.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27May2025 18:46:38.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27May2025 18:46:38.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27May2025 18:46:38.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27May2025 18:46:38.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27May2025 18:46:38.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27May2025 18:46:38.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
